@@ -1,0 +1,21 @@
+# Secrets — never commit
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local scratch / duplicate snapshot (not part of the repo)
+SKILL.md + 最后一轮测试数据及分析 + 1200条test_cases/
